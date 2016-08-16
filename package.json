@@ -1,0 +1,17 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "description": "webhook for github",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webhook"
+  ],
+  "author": "duwei",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
